@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on frontend
-- 🤔 I’m looking for help with javascript
+- 🤔 I’m looking for help with java, spring, kotlin
 
 <div align="center">
   <a href="https://github.com/camichang">
