@@ -1,7 +1,7 @@
 ### Hello World!
 
 
-- 🔭 I’m currently working on frontend
+- 🔭 I’m currently working on backend
 - 🤔 I’m looking for help with java, spring, kotlin
 
 <div align="center">
